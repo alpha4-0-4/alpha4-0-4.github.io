@@ -1,17 +1,20 @@
 ## Alpha404
 
-Modding enthusiast from 🇮🇹 Italy.
-14 y/o 🤷🏻‍♂️
+### My devices:
+- Redmi Note 8
 
-### My devices
-- Redmi note 8
+- Sony Xperia X (LOS 17.1)
 
-- Sony Xperia X
+- Honor 9 Lite (AEX OpenKirin)
 
-- Honor 9 Lite (not unlocked, [help me](t.me/alpha4_0_4))
 
-- Poco X3 NFC currently broken :(
-
-### My socials
+### My socials:
 - [Telegram](t.me/alpha4_0_4)
 - [Twitter](http://twitter.com/alpha4_0_4)
+
+### Active projects:
+
+- [@errori_grammaticali](https://t.me/joinchat/AAAAAFkOQajZX9wEdMEAYw) 
+- [@TGTranslators](https://t.me/TGTranslators)
+- [@AMItaly](https://t.me/AMItaly) - Quiz Maintainer
+- Learning Python and Pyrogram
